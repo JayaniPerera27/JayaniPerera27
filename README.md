@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jayaniperera27&label=Profile%20views&color=0e75b6&style=flat" alt="jayaniperera27" /> </p>
 
-- 🔭 I’m currently working on **Blood Blank App**
+- 🔭 I’m currently working on **Medical Clinic App**
 
 - 🌱 I’m currently learning **MERN , Spring Boot , Machine Learning**
 
