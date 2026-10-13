@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jayaniperera27&label=Profile%20views&color=0e75b6&style=flat" alt="jayaniperera27" /> </p>
 
-- 🔭 I’m currently working on **Medical Clinic App**
+- 🔭 I’m currently working on **Astraea University E-Procurement System**
 
 - 🌱 I’m currently learning **MERN , Spring Boot , Machine Learning**
 
-- 💬 Ask me about **react , Figma**
+- 💬 Ask me about **Java, JavaScript, TypeScript, Python, C++ react , Figma,TensorFlow, OpenCV, MobileNetV3,MySQL, PostgreSQL, MongoDB**
 
 - 📫 How to reach me **pererajayani27@gmail.com**
 
